@@ -1,0 +1,2 @@
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\JIRA test.exe.config
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\obj\Debug\JIRA test.csprojResolveAssemblyReference.cache

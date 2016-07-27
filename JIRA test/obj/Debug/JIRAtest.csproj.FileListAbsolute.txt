@@ -1,0 +1,13 @@
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\obj\Debug\JIRAtest.csprojResolveAssemblyReference.cache
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\JIRA test.exe.config
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\JIRA test.exe
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\JIRA test.pdb
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\Atlassian.Jira.dll
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\RestSharp.dll
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\Atlassian.Jira.pdb
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\Atlassian.Jira.xml
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\bin\Debug\RestSharp.xml
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\obj\Debug\JIRA test.exe
+C:\Users\Jam3-5\Desktop\HoloLens\JIRA test\JIRA test\obj\Debug\JIRA test.pdb
