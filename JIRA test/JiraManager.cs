@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using RestSharp;
+using System;
 using System.IO;
 using System.Net;
 using System.Text;
@@ -57,7 +59,12 @@ public class JiraManager
             result = reader.ReadToEnd();
         }
 
-        Console.WriteLine(result);
+        // Convert response to JSON
+        dynamic parsed = JObject.Parse(result);
+        Console.WriteLine(parsed.key);
+        Console.WriteLine(parsed.id);
+
+        Console.WriteLine(parsed);
     }
 
     private string GetEncodedCredentials()

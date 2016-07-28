@@ -12,12 +12,12 @@ namespace JIRA_test
         {
             Console.WriteLine("Hello and welcome to a Jira Example application!");
 
-            Console.Write("Username: ");
-            string username = Console.ReadLine();
-            //string username = "";
-            //string password = "";
-            Console.Write("Password: ");
-            string password = Console.ReadLine();
+            //Console.Write("Username: ");
+            //string username = Console.ReadLine();
+            string username = "";
+            string password = "";
+            //Console.Write("Password: ");
+            //string password = Console.ReadLine();
 
             JiraManager manager = new JiraManager(username, password);
             manager.RunQuery(JiraResource.project);
